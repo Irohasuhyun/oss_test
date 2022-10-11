@@ -6,3 +6,11 @@
 
 담당교수: 박규동
 
+강의 내용
+-rinux
+
+-git
+
+-github
+
+-docker
